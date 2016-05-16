@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
-class PhotosController extends Controller
+class ClasificadosController extends Controller
 {
     /**
      * Display a listing of the resource.
